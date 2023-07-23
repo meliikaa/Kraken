@@ -1,4 +1,4 @@
-Kraken Two-Column Article Recognition
+%Kraken Two-Column Article Recognition%
 
 This repository contains code and configurations for using Kraken, a powerful Optical Character Recognition (OCR) engine, to recognize and process texts. The model has been fine-tuned to achieve accurate text extraction from documents that have a two-column layout. The work is done by the Python course from the University of Michigan, Ann Arbor, on Coursera.
 Table of Contents
